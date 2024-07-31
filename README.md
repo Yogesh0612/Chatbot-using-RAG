@@ -9,7 +9,7 @@ This Chat App is a Python application that allows you to chat with multiple PDF 
 ## How It Works
 ------------
 
-!(https://github.com/Yogesh0612/Chatbot-using-RAG/blob/master/PDF-LangChain.jpg)
+![Alt text](https://github.com/Yogesh0612/Chatbot-using-RAG/blob/master/PDF-LangChain.jpg)
 
 
 The application follows these steps to provide responses to your questions:
